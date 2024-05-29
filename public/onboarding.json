@@ -1,0 +1,140 @@
+{
+    "welcomeMessage": "Welcome Aboard",
+    "employeeName": "Gideon Ogongo",
+    "introText": "Welcome aboard! We’re thrilled to have you join us. Our mission is to create unforgettable experiences together.",
+    "sections": [
+      {
+        "title": "Orientation",
+        "image": "/images/orientation.png",
+        "items": [
+          {
+            "title": "Explore University's Mission, Values, and Culture",
+            "description": "Learn about our University’s mission, values, and culture through engaging multimedia presentations and articles. Earn points and badges for completing interactive modules and quizzes."
+          },
+          {
+            "title": "Take a Virtual Campus Tour",
+            "description": "Immerse yourself in our campus environment with 360-degree photos and interactive maps. Complete challenges by virtually visiting key locations and earn points for exploration."
+          }
+        ]
+      },
+      {
+        "title": "Completion of Employment Contracts and Forms",
+        "image": "/images/contracts-placeholder.png",
+        "items": [
+          {
+            "title": "Fill out Required Documents",
+            "description": "Complete employment contracts, tax forms, and legal documents conveniently online. Earn points for each form completed accurately and within deadlines."
+          },
+          {
+            "title": "Submit Identification and Qualification Documents",
+            "description": "Upload scanned copies of identification documents (e.g., ID, passport) and academic qualifications. Receive badges for document submission and verification."
+          }
+        ]
+      },
+      {
+        "title": "University Email Account Setup",
+        "image": "/images/email-setup-placeholder.png",
+        "items": [
+          {
+            "title": "Create Your University Email",
+            "description": "Set up your university email account hassle-free with step-by-step instructions. Earn points for successfully configuring the email account on personal devices."
+          },
+          {
+            "title": "Assistance with Device Setup",
+            "description": "Access video tutorials and guides for configuring personal devices for work purposes. Earn points for completing device setup tasks."
+          }
+        ]
+      },
+      {
+        "title": "Request Access Cards or Keys Online",
+        "image": "/images/access-cards-placeholder.png",
+        "items": [
+          {
+            "title": "Secure Your Access",
+            "description": "Easily request access cards or keys online with integrated approval processes. Achieve a 'Facility Access Pro' badge for completing access-related tasks."
+          }
+        ]
+      },
+      {
+        "title": "Academic and Administrative Systems Access",
+        "image": "/images/systems-access-placeholder.png",
+        "items": [
+          {
+            "title": "Gain Access to Systems",
+            "description": "Access academic and administrative systems conveniently through a single sign-on portal. Earn points for accessing and navigating these systems efficiently."
+          }
+        ]
+      },
+      {
+        "title": "Mandatory Training Programs and Compliance Courses",
+        "image": "/images/training-programs-placeholder.png",
+        "items": [
+          {
+            "title": "Enroll in Essential Training",
+            "description": "Enroll in mandatory training programs and compliance courses to enhance your skills and knowledge. Earn points for completing each module, with certificates as rewards."
+          },
+          {
+            "title": "Explore Professional Development",
+            "description": "Browse and register for available workshops, conferences, and skill-building sessions. Gain access to exclusive skill-building challenges with points and skill badges."
+          }
+        ]
+      },
+      {
+        "title": "Department-Specific Information",
+        "image": "/images/department-info-placeholder.png",
+        "items": [
+          {
+            "title": "Get to Know Your Department",
+            "description": "Access department-specific introductory videos and profiles of colleagues. Connect with colleagues through virtual meet-and-greet sessions and earn social badges."
+          },
+          {
+            "title": "Understand Department Policies",
+            "description": "Access and acknowledge department-specific policies and procedures. Complete policy quizzes for points and compliance badges."
+          }
+        ]
+      },
+      {
+        "title": "Library Orientation",
+        "image": "/images/library-orientation-placeholder.png",
+        "items": [
+          {
+            "title": "Discover Library Resources",
+            "description": "Attend virtual library orientation sessions or explore an interactive library tour. Participate in library treasure hunts and earn explorer badges."
+          },
+          {
+            "title": "Access Research Databases",
+            "description": "Gain access to research databases and academic journals with a single login. Complete database searches and earn researcher badges."
+          }
+        ]
+      },
+      {
+        "title": "Benefits Explanation",
+        "image": "/images/benefits-explanation-placeholder.png",
+        "items": [
+          {
+            "title": "Understand Your Benefits",
+            "description": "View multimedia presentations explaining employee benefits. Complete benefits quizzes and earn benefits knowledge badges."
+          },
+          {
+            "title": "Review University Policies",
+            "description": "Review and acknowledge university policies on work hours, leave, and HR matters. Earn compliance badges for policy acknowledgment."
+          }
+        ]
+      },
+      {
+        "title": "Campus Services Information",
+        "image": "/images/campus-services-placeholder.png",
+        "items": [
+          {
+            "title": "Access Campus Services",
+            "description": "Access information on campus dining, transportation, wellness services, and parking. Use virtual coupons for dining, earn transit points, or unlock wellness challenges."
+          },
+          {
+            "title": "Apply for Parking Permits and Transportation Cards",
+            "description": "Apply for parking permits or public transportation cards online. Receive parking hero badges for successfully securing parking permits."
+          }
+        ]
+      }
+    ]
+  }
+  
